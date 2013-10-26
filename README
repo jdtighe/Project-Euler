@@ -1,0 +1,3 @@
+Project Euler README
+
+This repository contains the solutions to various problems from projecteuler.net. The source for each different problem is stored in its own directory with a corresponding Makefile which builds the solution.
